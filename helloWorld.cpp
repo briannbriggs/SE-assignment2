@@ -5,9 +5,12 @@ using namespace std;
 // main() function: where the execution of
 // C++ program begins
 int main() {
-  
+    string response;      
     // This statement prints "Hello World"
     cout << "Hello World";
-
+    
+    cout<< "Write a cheery response";
+    cin >> response;
+    cout << response;
     return 0;
 }
