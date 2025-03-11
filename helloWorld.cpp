@@ -8,6 +8,6 @@ int main() {
   
     // This statement prints "Hello World"
     cout << "Hello World";
-
+    cout << "lame";
     return 0;
 }
